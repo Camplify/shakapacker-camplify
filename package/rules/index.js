@@ -5,7 +5,6 @@ const rules = {
   raw: require('./raw'),
   file: require('./file'),
   css: require('./css'),
-  sass: require('./sass'),
   babel: require('./babel'),
   swc: require('./swc'),
   esbuild: require('./esbuild'),
